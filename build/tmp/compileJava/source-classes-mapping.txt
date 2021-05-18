@@ -1,0 +1,62 @@
+com/company/Models/VenueType.java
+ com.company.Models.VenueType
+com/company/Writer.java
+ com.company.Writer
+com/company/Models/TicketType.java
+ com.company.Models.TicketType
+com/company/Command.java
+ com.company.Command
+com/company/Models/Coordinates.java
+ com.company.Models.Coordinates
+com/company/Comparators/Comparator.java
+ com.company.Comparators.Comparator
+com/company/Comparators/Comparator_by_coordinates.java
+ com.company.Comparators.Comparator_by_coordinates
+com/company/Validator.java
+ com.company.Validator
+com/company/Commands/Empty.java
+ com.company.Commands.Empty
+com/company/Printer.java
+ com.company.Printer
+com/company/Commands/Remove_first.java
+ com.company.Commands.Remove_first
+com/company/Commands/Update_by_id.java
+ com.company.Commands.Update_by_id
+com/company/Commands/Show.java
+ com.company.Commands.Show
+com/company/Main.java
+ com.company.Main
+com/company/Commands/Remove_lower.java
+ com.company.Commands.Remove_lower
+com/company/Commands/Group_counting_by_coordinates.java
+ com.company.Commands.Group_counting_by_coordinates
+com/company/Commands/Print_field_descending_type.java
+ com.company.Commands.Print_field_descending_type
+com/company/Commands/Remove_all_by_venue.java
+ com.company.Commands.Remove_all_by_venue
+com/company/Models/Ticket.java
+ com.company.Models.Ticket
+com/company/Commands/Add.java
+ com.company.Commands.Add
+com/company/TicketManager.java
+ com.company.TicketManager
+com/company/Commands/Remove_by_id.java
+ com.company.Commands.Remove_by_id
+com/company/Models/Venue.java
+ com.company.Models.Venue
+com/company/Commands/Clear.java
+ com.company.Commands.Clear
+com/company/Commands/Execute_script.java
+ com.company.Commands.Execute_script
+com/company/Parser.java
+ com.company.Parser
+com/company/Commands/Help.java
+ com.company.Commands.Help
+com/company/Commands/Save.java
+ com.company.Commands.Save
+com/company/Commands/Head.java
+ com.company.Commands.Head
+com/company/Logger.java
+ com.company.Logger
+com/company/Commands/Info.java
+ com.company.Commands.Info
